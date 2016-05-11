@@ -1,0 +1,14 @@
+{
+	"name": "new-window",
+	"title": "Open a new editor window.",
+	"description": "Adds a File option to open your current project in a new window.",
+	"homepage": "https://github.com/Fraser-Greenlee/new-window/tree/master",
+	"version": "0.0.1",
+	"author": "Fraser-Greenlee",
+	"license": "MIT",
+	"files": [
+		"main.js"
+	],
+	"contributors": ["Fraser-Greenlee"],
+	"keywords": ["new","window","File"]
+}
